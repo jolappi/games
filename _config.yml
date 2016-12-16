@@ -1,4 +1,5 @@
-theme: jekyll-theme-midnight
+theme:
 title: Games on the Fly
 description: We create what imagination gives us!
 show_downloads:false
+google_analytics:
