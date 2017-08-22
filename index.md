@@ -2,14 +2,15 @@
 
 # iOS
 
-[<img src="images/molecrash.png" width="200"  height="200">](https://itunes.apple.com/us/app/alien-mole-crash/id1006183231?mt=8)
-
 [Download MoleCrash from  Appstore](https://itunes.apple.com/us/app/alien-mole-crash/id1006183231?mt=8)
 
+[<img src="images/molecrash.png" width="200"  height="200">](https://itunes.apple.com/us/app/alien-mole-crash/id1006183231?mt=8)
+
+
+[Download PairPuzzle from Appstore](https://itunes.apple.com/us/app/pairpuzzle/id945584685?mt=8)
 
 [<img src="images/pairpuzzle.png" width="200"  height="200">](https://itunes.apple.com/us/app/pairpuzzle/id945584685?mt=8)
 
-[Download PairPuzzle from Appstore](https://itunes.apple.com/us/app/pairpuzzle/id945584685?mt=8)
 
 
 # Android
